@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BandData</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Get Band Data</string>
+    <string name="consent">Heart Rate Consent</string>
+    <string name="server">Connect to Server</string>
+    <string name="disserver">Disconnect from Server</string>
+    <string name="timestamp">Timestamp</string>
+</resources>
